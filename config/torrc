@@ -1,0 +1,5 @@
+HiddenServiceDir /var/lib/tor/hidden_service/
+HiddenServiceVersion 3
+HiddenServicePort 80 127.0.0.1:8080
+ControlPort 9051
+HashedControlPassword 16:##########################################
